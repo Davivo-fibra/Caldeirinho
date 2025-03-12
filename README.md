@@ -4,7 +4,7 @@ Este é um bot para o Discord, desenvolvido para automatizar interações no ser
 
 Funcionalidades
 
-- Comandos personalizados: O bot pode responder a comandos específicos.
+- Automatizado: sempre que alguém enviar um link das plataformas instagram, twitter e tiktok, o bot automaticamente irá reenviar o vídeo, mas de uma forma que o usuário possa assistir pelo próprio chat do discord.
 - Interação com usuários: Ele pode interagir com os usuários do servidor Discord, enviar mensagens e realizar outras tarefas automatizadas.
 - Hospedagem: Está hospedado no Discloud, com a opção de manter o bot ativo o tempo inteiro.
 
